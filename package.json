@@ -1,0 +1,31 @@
+{
+  "name": "sales-mag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arolznov/sales-mag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arolznov/sales-mag/issues"
+  },
+  "homepage": "https://github.com/arolznov/sales-mag#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "camera-capture": "0.0.11",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "puppeteer": "^13.5.2",
+    "socket.io-client": "^2.4.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.1"
+  }
+}
